@@ -1,9 +1,9 @@
-APRS library for Python
-~~~~~~~~~~~~~~~~~~~~~~~
+APRS library for Micropython
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |pypi| |coverage| |scru| |master_build| |docs|
 
-A python library for dealing with APRS.
+A micropython library for dealing with APRS.
 It can be used to interact with APRS-IS servers, sending and receiving.
 Parsing functionally is also included, but currently doesn't implement the full spec.
 
